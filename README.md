@@ -29,7 +29,7 @@ This project aims to answer the following questions:
 
 ---
 
-# 📊 Data Visualizations
+# Data Visualizations
 
 ## Total Monthly Sales
 
