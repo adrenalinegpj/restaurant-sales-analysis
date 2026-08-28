@@ -138,12 +138,8 @@ The visualizations provide valuable insights into restaurant sales performance a
 ```text
 restaurant-sales-analysis/
 │
-├── README.md
-├── restaurant_sales_analysis.ipynb
-├── restaurant_sales_data.csv
-│
-└── images/
-    ├── total_revenue_by_category.png
+├── images/
+            ├── total_revenue_by_category.png
     ├── total_monthly_sales.png
     ├── top_15_customers.png
     ├── top_10_items.png
@@ -155,7 +151,16 @@ restaurant-sales-analysis/
     ├── most_ordered_items.png
     ├── order_total_distribution.png
     └── categories_percentage.png
-```
+
+│
+├── README.md
+├── Restaurant_Sales_Pandas_Project.ipynb
+├── Restaurant_Sales_Pandas_Project.pdf
+├── Restaurant_Sales_Pandas_Project_final.csv
+├── Restaurant_Sales_Project_report.document.pdf
+└── restaurant_sales_data.csv
+
+   
 
 ---
 
